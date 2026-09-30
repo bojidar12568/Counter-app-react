@@ -1,0 +1,22 @@
+body {
+    margin-left: 25%;
+    margin-top: 25%;
+    background-color: aqua;
+    
+}
+h1{
+    margin-left: 30%;
+    font-size: 400%;
+}
+
+button {
+    width: 20%;
+    line-height: 400%;
+    background-color: aquamarine;
+    outline: 2px solid aqua;
+
+}
+
+button:hover {
+    background-color: aqua;
+}
